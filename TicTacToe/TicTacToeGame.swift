@@ -163,7 +163,6 @@ struct TicTacToeGame {
                 squares[index].isEmpty = false
             }
         }
-        print(winner)
     }
     
     
